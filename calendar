@@ -13,5 +13,5 @@ public class calendar {
 	// 3年後の曜日を取得。
 	DayOfWeek dayofweek = newDay.getDayOfWeek();
 	System.out.println(dayofweek);		
-	
+	}
  }
